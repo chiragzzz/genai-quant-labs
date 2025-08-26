@@ -8,7 +8,7 @@ openai:
   #   output: 0.60
 
 project:
-  author: "YOUR_NAME"
+  author: "Chiragzzz"
   seed: 42
   save_dir: "logs"
 
