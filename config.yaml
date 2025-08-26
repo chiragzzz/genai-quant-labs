@@ -1,1 +1,14 @@
+openai:
+  model: "gpt-4o-mini"     # fast & cheap for most tasks
+  temperature: 0.2
+  max_tokens: 800
+  # Optional: keep rough price references here; confirm on pricing page before heavy runs
+  # prices_usd_per_million:
+  #   input: 0.15
+  #   output: 0.60
+
+project:
+  author: "YOUR_NAME"
+  seed: 42
+  save_dir: "logs"
 
