@@ -1,1 +1,14 @@
+# secrets & local
+.env
+*.env
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.log
+
+# data/output
+logs/
+outputs/
+reports/
 
